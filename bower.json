@@ -1,0 +1,24 @@
+{
+  "name": "doro",
+  "version": "0.0.0",
+  "authors": [
+    "priyono <priyono.arif@divusi.com>"
+  ],
+  "description": "pomodoro timer technique",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "pomdoro"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
